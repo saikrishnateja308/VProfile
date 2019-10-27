@@ -69,4 +69,4 @@ public class UserController {
         return "index_home";
     }
 }
-}
+
